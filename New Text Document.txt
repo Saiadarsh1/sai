@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta name="referrer" content="no-referrer">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>saiadrash</title>
+    <style>
+        .image1{
+        
+        float : left;
+
+
+        }
+        .d2{
+            width: 40%;
+  
+            font-size:16px;
+            font-style: ;
+            line-height:26px;
+              margin-left:19px;
+                border-radius:10%;
+           
+       
+        
+        }
+        #h1{
+            clear :both;
+            margin-left:20px;
+            font-size:30px;
+            font-style:italic;
+
+        }
+       #img2{
+           float:right;
+        
+           margin-top :10px;
+           margin-left:90px;
+            margin-right:40px;
+           border-radius:10%;
+       }
+       #h2
+       { 
+            font-size:25px;
+            font-style:italic;
+
+           margin-left: 50px;
+       }
+       #p1{
+           margin-left:50px;
+       font-weight:bold;
+           font-size:20px;
+       }
+       .d3{
+          float:left;
+           font-family: 'Birdseye', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.75;
+    width:33%;
+   
+    border:1px solid violet;
+    border-radius:20px;
+    padding:10px;
+  }
+   #p2{
+           margin-left:50px;
+       font-weight:bold;
+           font-size:20px;
+       }
+       .d4{
+          float:left;
+           font-family: 'Birdseye', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.75;
+    width:25%;
+
+    border:1px solid violet;
+    border-radius:20px;
+    padding:10px;
+   margin:5px;
+  }
+   #p3{
+           margin-left:50px;
+       font-weight:bold;
+           font-size:20px;
+       }
+       .d5{
+          float:right;
+           font-family: 'Birdseye', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.75;
+    width:30%;
+
+    border:1px solid violet;
+    border-radius:20px;
+    padding:10px;
+  }
+  #h3{
+      clear:both;
+  }
+  .d6{
+      line-height:30px;
+      border:2px solid grey;
+      border-radius:20px;
+ 
+     padding:10px;
+  }
+  #h3{
+     
+     text-align: center;
+     border-radius:20px;
+     
+  }
+   #h4{
+     
+     text-align: center;
+     border-radius:20px;
+     
+  }
+  #t1{
+      margin-left:100px;
+       border:2px solid grey;
+        text-align: center;
+         border-radius:5px;
+            border-collapse: collapse;
+            width :70%;
+        
+  }
+  .t12{
+        border:2px solid grey;
+     padding:10px;
+  }
+    #h5{
+     
+     
+     font-size:20px;
+    }
+    #d7{
+          border:2px solid grey;
+           padding:10px;
+             border-radius:20px;
+              border-collapse: collapse;
+              width:30%;
+              height:30%;
+             
+    }
+    #img3{
+       float:right;
+        border-radius:20px;
+        margin-right:25%;
+    }
+      #h6{
+     
+     
+     font-size:20px;
+    } 
+    #h7{
+    font-weight:bold;
+     
+     font-size:20px;
+    }
+    #d9{
+        line-height:30px;
+         border:2px solid grey;
+           padding:10px;
+             border-radius:20px;
+    }
+    #h8{
+           font-weight:bold;
+             font-size:20px;
+    }
+    #d10{
+        margin:30px;
+          border:2px solid grey;
+           padding:10px;
+             border-radius:20px;
+        line-height:30px;
+    }
+    </style>
+</head>
+<body>
+    <Div>
+        <img class= "image1" src="https://i.imgur.com/rSJECep.jpg" width="100px" alt ="saiadrash">
+    </Div>
+    <h1  id="h1">PERSONAL INTRODUCTION : </h1>
+    <img id="img2" src="https://i.imgur.com/NkvRZEP.jpg" width=200px>
+    <div class = "d2">
+         Hello there! My name is <em>Sai Adarsh</em><br> and I am currently pursuing my Bachelor of Technology (B.Tech) degree in Computer Science and Engineering (CSE) as a third-year student. I have always been interested in technology and its applications in solving real-world problems, which led me to choose CSE as my field of study.
+
+During my academic journey so far, I have gained a solid foundation in computer programming, algorithms, data structures, and various other aspects of CSE. I have also been actively involved in various extracurricular activities such as coding competitions, hackathons, and technical events, which have helped me enhance my problem-solving skills and creativity.
+
+
+    </div>
+    <h2 id="h2" > CORE VALUES:</h2> 
+      </div>
+    
+    <div class="d3">
+         <p id="p1">Ambition<br></p>
+        What this means to me is pushing the boundaries. Challenging current ideas and perspectives of what we currently know. Setting a goal that is ambitious. Throughout my leadership career, I have always pushed and challenged myself. Adapting and rising to new challenges. This is important to me because by being ambitious, I was able to open up the opportunities and got me to where I am today. 
+        
+  
+     </div>
+  
+    
+    <div class="d4">
+         <p id="p2">Passion<br></p>
+       ​What this means to me is something that will get me motivated to get out of bed every morning. I think passion is not a single item. It is something that give me endless desire and enthusiasm. This is important to me because by being passionate, I am willing to go through great lengths to get what I want.
+        
+    </div>
+     
+    <div class="d5">
+         <p id="p3">    Resilience <br></p>
+   ​What this means to me is the Cambodian community. How much do you want something and how willing are you to overcome those obstacles? To strengthen a community that was ravaged by genocide, and to empower one another to rise above adversity. This is important to me because this word is the representation of my community and identity.
+        <br>
+    </div>
+    <h3 id="h3">ABOUT </h3>
+    <div class="d6">
+        Hi, my name is Sai Adarsh, and I would like to tell you a little bit about myself. I'm a huge fan of sports, especially cricket, and I love to play whenever I get the chance. I have been told that I am quite good at cricket, and I take a lot of pride in my ability to perform well on the field. One of the things I love most about sports is the opportunity it provides to work as part of a team. I have always considered myself to be a good team player, and I enjoy being part of a group of people working together towards a common goal.
+
+When it comes to academics, I have to admit that I am an average student. While I recognize the importance of education, it is not something that comes as naturally to me as sports do. However, I am committed to doing my best and putting in the effort required to achieve good grades. I know that balancing academics and sports can be challenging, but I am determined to manage my time effectively so that I can succeed in both areas.
+
+Overall,<em> I consider myself to be a well-rounded individual </em> with a passion for sports and a desire to do well in all aspects of my life. I believe that my positive attitude, strong work ethic, and ability to work well with others make me a valuable member of any team or organization that I am part of.<br>
+        
+    </div>
+    <h4 id="h4">ACADAMICS </h4>
+      <table id="t1" >
+              <tr >
+                  <th class="t12"> name of the instituion</th>
+                    <th class="t12">  passed out year</th>
+                      <th class="t12"> percentage</th>
+              </tr>
+              <tbody>
+                  <tr>
+                      <th class="t12">
+                          sri suryathej school
+                      </th>
+                        <th class="t12"> 2018</th>
+                          <th class="t12"> 97%</th>
+                         
+                  </tr>
+                  <tr>
+                      <th class="t12">NRI junior colege</th>
+                       <th class="t12"> 2020</th>
+                          <th  class="t12" > 86%</th>
+                      
+                  </tr>
+                   <tr>
+                      <th class="t12">DIET</th>
+                       <th class="t12"> *2024</th>
+                          <th class="t12">* 71%</th>
+                      
+                  </tr>
+              </tbody>
+          </table>
+          
+    </div>
+<h5 id="h5">COURSES</h5>
+<img  id="img3" src ="https://i.imgur.com/5J3GZ4J.jpg" width=300px alt="c,c++,java">
+<div id="d7">
+    
+    <ul>
+        <li>Programminig using c</li>
+          <li>Programminig using c++</li>
+            <li>Programminig using java</li>
+            
+    </ul>
+</div>
+<h6 id="h6">CERTIFICATIONS</h6>
+ <div id="d8">
+    
+  EKKINCHU BE
+</div>
+
+ <div id="d9">
+       <h7 id="h7">HOBBIES</h7><br>
+     I have a few hobbies that I really enjoy. I love playing cricket and watching anime as they allow me to unwind and relax. In addition, I also enjoy studying some books, which helps me expand my knowledge and learn new things. Lastly, I love traveling to new places and exploring different cultures."
+     <ul>
+         <li>Playing cricket</li>
+           <li>Watching anime</li>
+             <li>Studying books</li>
+               <li>Traveling to new places</li>
+     </ul>
+</div>
+
+    <div id="d10">
+     <h8 id="h8">CONTACT DETAILS</h8>
+     <ul>
+         <li>Watsapp : 1234567890</li>
+           <li>E-Mail : saiadarsh301@gmail.com</li>
+             <li>Linkedin : <a herf="https://www.linkedin.com/in/sai-adarsh-59306225b/">clickhere</a></li>
+              
+     </ul>
+</div>
+
+</body>
+</html>
